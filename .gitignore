@@ -1,0 +1,8 @@
+# .gitignore 示例
+bin/
+obj/
+.vs/
+.idea/
+packages/
+*.user
+*.suo
